@@ -1,4 +1,4 @@
-# --- General options --- #
+﻿# --- General options --- #
 
 # url is the full website URL
 # baseurl is the website's URL without the hostname
@@ -74,7 +74,7 @@ author:
 social-network-links:
   rss: true
   email: "moyi_001@qq.com"
-  facebook: Ī��
+  facebook: 莫毅
   github: Michael-LY
   twitter: Just_my_michael
 #  reddit: yourname
