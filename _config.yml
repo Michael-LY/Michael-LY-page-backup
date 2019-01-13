@@ -96,7 +96,7 @@ share-links-active:
   twitter: true
   facebook: true
   google: false
-  linkedin: true
+  linkedin: false
   steam: true
 
 # How to display the link to the website in the footer
