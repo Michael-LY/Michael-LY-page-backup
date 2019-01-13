@@ -28,7 +28,7 @@ navbar-links:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
-  WUTE Stracker Pages: "http://45.40.207.193:50041/mainpage"
+    - WUTE Pages: "http://45.40.207.193:50041/mainpage"
   主题作者: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
